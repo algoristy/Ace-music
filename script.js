@@ -14,7 +14,7 @@ let songs =[
     {songName: "Guju Patakha", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Mainu Ishq Laga", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Neat", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Sabki Baaratein Aayi", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Zindagi- Kulwinder Billa", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Dil Le Gayi", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Ik Geda Gidde Vich Hor", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Laung Da Lashkara", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
